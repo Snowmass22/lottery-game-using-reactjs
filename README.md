@@ -1,3 +1,9 @@
 lottery game!!!
-win === (sum==15)
+
+if(sum==15){
+you win!!!
+}
+else{
+you loose
+}
 
